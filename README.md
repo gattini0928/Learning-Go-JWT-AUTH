@@ -3,4 +3,4 @@
 📚 Nesse mini projeto criei o que eu chamaria de semi-api, 
 o foco aqui era aprender a autenticação com JWT e construir uma arquitetura limpa para que eu possa utilizar nos futuros projetos
 
-👉 main -> handler -> service -> repo -> db
+👉 main -> routes -> handler -> service -> repo -> db
